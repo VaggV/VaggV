@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-I am Vaggelis and I'm currently studying Computer Science at the Informatics Department of University Of Piraeus
+I am Vaggelis and I'm currently a software engineer 🧑‍💻
 
 
 <a href="https://www.linkedin.com/in/vaggelisv/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### Languages & Techologies
+### My Main Languages & Techologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
